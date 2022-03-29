@@ -1,3 +1,16 @@
-this is my first file
-new sentence
-third line
+workshop with Qurat
+How to use git and its tools
+Install Fork app
+open the app
+go to file and open any folder from computer
+the file must be less than 100 mb.
+stage  the file
+click on remote and add new remote
+now go to github repository and make new repository
+open the repository and copy the link of that repository
+click on master and push the file
+
+Changes to the file in repository
+to make changes in repsoitory go to github and open that file
+click on edit and do changes and save it
+in fork click on origin and pull origin to master and save it the changes to local repsoitory or file will be made.
