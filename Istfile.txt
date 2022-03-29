@@ -13,4 +13,6 @@ click on master and push the file
 Changes to the file in repository
 to make changes in repsoitory go to github and open that file
 click on edit and do changes and save it
-in fork click on origin and pull origin to master and save it the changes to local repsoitory or file will be made.
+in fork click on origin and fetch origin 
+then click on master/Pull origin to master and save it the changes to local repsoitory or file will be made.
+now you can check the changes in local file in fork.
